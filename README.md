@@ -1,7 +1,5 @@
 <h1 align="center">Stock Market App</h1
 
-<h3 align="center">Alertas, gráficos, análisis de IA y más</h3>
-
 <div>
   <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logoColor=white&logo=next.js&color=black"/>
   <img src="https://img.shields.io/badge/-Better Auth-black?style=for-the-badge&logoColor=white&logo=betterauth&color=black"/>
