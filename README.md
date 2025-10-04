@@ -81,7 +81,7 @@ Asegúrese de tener lo siguiente instalado en su máquina:
 **Clona el repositorio**
 
 ```bash
-git clone https://github.com/CRISHFAS/Stock-Market-App.git
+git clone git@github.com:CRISHFAS/Stock-Market-App.git
 cd Stock-Market-App
 ```
 
