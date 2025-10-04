@@ -81,8 +81,8 @@ Asegúrese de tener lo siguiente instalado en su máquina:
 **Clona el repositorio**
 
 ```bash
-git clone https://github.com/adrianhajdin/signalist_stock-tracker-app.git
-cd signalist_stock-tracker-app
+git clone https://github.com/CRISHFAS/Stock-Market-App.git
+cd Stock-Market-App
 ```
 
 **Instale las dependencias del proyecto usando npm**:
